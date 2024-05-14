@@ -1,4 +1,4 @@
-# Project Title
+# CitricSheep CodeChallenge
 
 ## Table of Contents
 
