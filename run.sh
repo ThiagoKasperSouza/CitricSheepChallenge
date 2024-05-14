@@ -1,0 +1,1 @@
+g++ -I/usr/include/openssl/ src/main.cpp -lcrypto -o ./output/main.o && ./output/main.o
